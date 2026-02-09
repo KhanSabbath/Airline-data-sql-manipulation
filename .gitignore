@@ -1,0 +1,5 @@
+# Ignorar o banco de dados SQLite
+data/travel.sqlite
+
+# Recomendado: ignorar o ambiente virtual também
+.venv/

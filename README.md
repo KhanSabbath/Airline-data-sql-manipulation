@@ -1,3 +1,4 @@
 # Airline-data-sql-manipulation
 
-teste 2
+Eu iria usar o sqlite mas me comecei a estudar a extensão abaixo:
+uv --upgrade ipython-sql sqlalchemy
